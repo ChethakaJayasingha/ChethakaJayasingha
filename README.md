@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full-stack development, efficient algorithms, and clean coding practices.
 - 💞️ I’m looking to collaborate on projects that require building robust, scalable applications and solving complex programming challenges.
 - 📫 How to reach me chethakajayasinghe@gmail.com 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy debugging and optimizing code as much as writing it, and I love thinking "How it's work ?" in my free time.
 
 <!---
